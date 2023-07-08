@@ -1,0 +1,5 @@
+# Dependencias utilizadas
+npm i dotenv
+npm i express
+npm i mysql
+npm i nodemon --save-dev
