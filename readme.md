@@ -2,7 +2,7 @@
 _Usando principalmente express para su elaboracion, asi como una base de datos relacional que fue mySQL._
 ## Inicio
 _Estas instrucciones lo ayudara a tener una copia del funcionamiento en su maquina local para propositos de pruebas._
-###Instalacion
+### Instalacion
 _Creacion de base de datos, hay adjunto un archivo llamado **db_pruebas.sql** solo importar ese archivo o ejecutar las sentencias ahi establecidas para obtener una copia exacta de la base de datos de pruebas, en caso de que se quiera cambiar el nombre de la db, la direccion IP, usuario y contraseña, asi como el puerto de ejecucion del servidor. Se encuentra un archivo .env en donde podra manipular las variables globales como mas le convenga._
 
 Una vez funcionando la db hay que inicialisar el proyecto con npm install, se instalaran todas las dependencias utilizadas de forma local, el script para inicar el servidor es **npm run serve**
